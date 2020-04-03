@@ -6,3 +6,9 @@
 
 作成方法を [LibreOfficeによるスキルシート/職歴書の効率的な作成](https://senooken.jp/post/2020/04//03/) で解説している。
 
+スキルシートは以下のとおりだ。
+
+![スキルシート1](./skill-sheet/skill-sheet-1.jpg)
+
+![スキルシート2](./skill-sheet/skill-sheet-2.jpg)
+
